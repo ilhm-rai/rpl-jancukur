@@ -1,0 +1,64 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
+
+.custom-navbar .nav-item .nav-link {
+    color: black;
+    font-weight: 600;
+    font-size: 14px;
+}
+
+.custom-navbar  .nav-item .nav-link:hover,
+.custom-navbar .nav-item.active .nav-link{
+    color: #6A46E7;
+}
+
+.custom-btn {
+    font-size: 14px;
+    border-radius: 10px;
+    padding: 10px 20px;
+}
+
+.btn-royal-blue {
+    background-color: #6A46E7;
+    color: white;
+}
+
+.round-50{
+    border-radius: 50px;
+}
+
+.round-25{
+    border-radius: 25px;
+}
+
+h1.big{
+    font-size: 40px;
+    font-weight: bold;
+}
+
+section {
+    margin-bottom: 200px;
+}
+
+.card {
+    height: 100%;
+}
+.card .card-title {
+    color: #6A46E7;
+    font-size: 18px;
+}
+
+.card .card-subtitle {
+    color: #3C4043;
+    font-size: 14px;
+}
+
+.card .card-text{
+    font-size: 14px;
+}
+
+.form-control {
+    font-size: 14px;
+    border-radius: 10px;
+}
